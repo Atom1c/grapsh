@@ -1,0 +1,48 @@
+/* Fix user-agent */
+
+
+
+html {
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased;
+}
+
+html, input {
+  font-family:
+    "HelveticaNeue-Light",
+    "Helvetica Neue Light",
+    "Helvetica Neue",
+    Helvetica,
+    Arial,
+    "Lucida Grande",
+    sans-serif;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+  word-wrap: break-word;
+}
+
+/* Pages */
+.contaner{
+position: relative;
+}
+.log {
+  color: red;
+  font-size: 190%;
+  margin: 5px;
+  text-align: center;
+}
+
+/* Messages */
+
+
+.message.typing .messageBody {
+  color: red;
+}
