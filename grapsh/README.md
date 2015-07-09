@@ -1,7 +1,5 @@
 
-# Socket.IO Chat
-
-A simple chat demo for socket.io
+# Socket.IO Grap
 
 ## How to use
 
